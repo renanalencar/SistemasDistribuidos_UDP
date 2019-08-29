@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UDPClient",
+            "request": "launch",
+            "mainClass": "UDPClient",
+            "projectName": "SistemasDistribuidos_UDP"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UDPServer",
+            "request": "launch",
+            "mainClass": "UDPServer",
+            "projectName": "SistemasDistribuidos_UDP"
+        }
+    ]
+}
